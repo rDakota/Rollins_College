@@ -1,7 +1,7 @@
-# Rollins College Course-Related Work
+# Rollins College Programming
 
 Includes experience with:
-*Java
-*Python
-*C
-*R
+* Java
+* Python
+* C
+* R
