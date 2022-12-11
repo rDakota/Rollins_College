@@ -1,0 +1,11 @@
+3
+Ryan W23 M 12034XY murder
+Longjohn E45 F 56477XX fraud
+Smallfoot T67 M 6534KXY larceny murder
+6
+P
+F 56477XX
+L murder M
+L arson F
+P
+F 45671XY
