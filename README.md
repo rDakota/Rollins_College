@@ -4,4 +4,3 @@ Includes experience with:
 * Java
 * Python
 * C
-* R
