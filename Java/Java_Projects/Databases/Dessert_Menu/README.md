@@ -1,2 +1,2 @@
 # Dessert Menu Database
-Simulate a resturant dessert menu
+* Simulate a resturant dessert menu
