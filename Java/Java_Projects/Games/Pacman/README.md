@@ -1,2 +1,3 @@
 # Pacman
-Complete graphics Pacman game that utilizes StdDraw and core object-oriented design principles
+* Complete graphics Pacman game
+* Utilizes StdDraw and core oop design principles
