@@ -2,4 +2,5 @@
 * Data Analytics
 * Databases
 * games
-* LinkedList
+* LinkedList Decryption
+* Miscellaneous Projects
