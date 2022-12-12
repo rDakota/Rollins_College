@@ -1,1 +1,1 @@
-# Several Small-Scale Databases
+# Small-Scale Databases
